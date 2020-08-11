@@ -1,2 +1,4 @@
 # Electroica-Blog
-Electroica Blog Article
+Links to blog articles written by Om Singh and supporting resourse material ..
+
+
